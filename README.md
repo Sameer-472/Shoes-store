@@ -3,7 +3,7 @@ Hello 👋
 
 Technology i used in this project.
 
-React router v6
+React router v6 \n
 Material UI
 React Bootstrap for Carousel 
 Git 
