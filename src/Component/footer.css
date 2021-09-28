@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Padauk:wght@700&display=swap');
+.footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-style: 'Padauk', sans-serif;
+    margin-top: 40%;
+    margin-bottom: 0%;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+    color: white;
+    margin-top: 7px;
+}
+
+ul li {
+    list-style-type: none;
+    color: white;
+    font-style: 'Padauk', sans-serif;
+    margin: 0% 3px 0 3px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}

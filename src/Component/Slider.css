@@ -1,0 +1,26 @@
+.slider {
+    /* margin-top: 10px; */
+    display: flex;
+    justify-content: center;
+    margin: 10px 50px 0 50px;
+}
+
+img {
+    width: 80vw;
+    height: 500px;
+}
+
+.slider:hover {
+    cursor: pointer;
+}
+
+.tag {
+    font-size: 4rem;
+    font-style: italic;
+}
+
+@media screen and (max-width: 800px) {
+    img {
+        height: 300px;
+    }
+}
